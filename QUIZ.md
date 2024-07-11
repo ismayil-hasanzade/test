@@ -95,10 +95,10 @@
     - B) Arrow functions cannot be used as methods.
     - C) Arrow functions are always anonymous.
     - D) Arrow functions do not have their own `this` context.
-- 1. Given the function `function add(a, b) { return a + b; }`, how would you convert it to an arrow function?
+    - **Answer:**
+
+1. Given the function `function add(a, b) { return a + b; }`, how would you convert it to an arrow function?
     - A) `const add = (a, b) => { return a + b; }`
-  
-    **Answer:**
     - B) `const add = (a, b) => a + b;`
     - C) `const add = (a, b) => { a + b; }`
     - D) `const add = (a, b) => { return a + b }`

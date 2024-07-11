@@ -20,7 +20,7 @@ To complete the quiz, follow these steps:
    ```
 
 2. **Complete the Quiz**
-   - The quiz consists of 50 questions.
+   - The quiz consists of 190+ questions.
    - There are two types of questions:
      1. **Open-Ended Questions**: Write your answers in the provided space.
      2. **Multiple-Choice Questions**: Select the correct answer from the given options.
